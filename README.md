@@ -1,3 +1,3 @@
 # analytics_study
 for analytics study
-- test2
+- test_n8n
